@@ -1,0 +1,99 @@
+2024-08-04 14:15:08 error: Failed to connect to MongoDB Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+2024-08-04 14:17:23 info: Connected to MongoDB
+2024-08-04 14:17:23 info: Server running on port 5000
+2024-08-04 14:18:13 info: Connected to MongoDB
+2024-08-04 14:18:13 info: Server running on port 5000
+2024-08-04 14:18:21 info: Connected to MongoDB
+2024-08-04 14:18:21 info: Server running on port 5000
+2024-08-04 14:18:30 info: Connected to MongoDB
+2024-08-04 14:18:30 info: Server running on port 5000
+2024-08-04 14:18:37 info: Connected to MongoDB
+2024-08-04 14:18:37 info: Server running on port 5000
+2024-08-04 14:18:46 info: Connected to MongoDB
+2024-08-04 14:18:46 info: Server running on port 5000
+2024-08-04 14:18:52 info: Connected to MongoDB
+2024-08-04 14:18:52 info: Server running on port 5000
+2024-08-04 14:18:54 info: Connected to MongoDB
+2024-08-04 14:18:54 info: Server running on port 5000
+2024-08-04 14:19:36 info: Connected to MongoDB
+2024-08-04 14:19:36 info: Server running on port 5000
+2024-08-04 14:19:40 info: Connected to MongoDB
+2024-08-04 14:19:40 info: Server running on port 5000
+2024-08-04 14:19:48 info: Connected to MongoDB
+2024-08-04 14:19:48 info: Server running on port 5000
+2024-08-04 14:19:52 info: Connected to MongoDB
+2024-08-04 14:19:52 info: Server running on port 5000
+2024-08-04 14:19:56 info: Connected to MongoDB
+2024-08-04 14:19:56 info: Server running on port 5000
+2024-08-04 14:20:03 info: Connected to MongoDB
+2024-08-04 14:20:03 info: Server running on port 5000
+2024-08-04 14:20:06 info: Connected to MongoDB
+2024-08-04 14:20:06 info: Server running on port 5000
+2024-08-04 14:20:10 info: Connected to MongoDB
+2024-08-04 14:20:10 info: Server running on port 5000
+2024-08-04 14:20:13 info: Connected to MongoDB
+2024-08-04 14:20:13 info: Server running on port 5000
+2024-08-04 14:20:19 info: Connected to MongoDB
+2024-08-04 14:20:19 info: Server running on port 5000
+2024-08-04 14:20:22 info: Connected to MongoDB
+2024-08-04 14:20:22 info: Server running on port 5000
+2024-08-04 14:20:31 info: Connected to MongoDB
+2024-08-04 14:20:31 info: Server running on port 5000
+2024-08-04 14:20:37 info: Connected to MongoDB
+2024-08-04 14:20:37 info: Server running on port 5000
+2024-08-04 14:20:43 info: Connected to MongoDB
+2024-08-04 14:20:43 info: Server running on port 5000
+2024-08-04 14:20:45 info: Connected to MongoDB
+2024-08-04 14:20:45 info: Server running on port 5000
+2024-08-04 14:20:48 info: Connected to MongoDB
+2024-08-04 14:20:48 info: Server running on port 5000
+2024-08-04 14:20:51 info: Connected to MongoDB
+2024-08-04 14:20:51 info: Server running on port 5000
+2024-08-04 14:20:54 info: Connected to MongoDB
+2024-08-04 14:20:54 info: Server running on port 5000
+2024-08-04 14:20:59 info: Connected to MongoDB
+2024-08-04 14:20:59 info: Server running on port 5000
+2024-08-04 14:21:02 info: Connected to MongoDB
+2024-08-04 14:21:02 info: Server running on port 5000
+2024-08-04 14:21:08 info: Connected to MongoDB
+2024-08-04 14:21:08 info: Server running on port 5000
+2024-08-04 14:21:09 info: Connected to MongoDB
+2024-08-04 14:21:09 info: Server running on port 5000
+2024-08-04 14:21:15 info: Connected to MongoDB
+2024-08-04 14:21:15 info: Server running on port 5000
+2024-08-04 14:21:20 info: Connected to MongoDB
+2024-08-04 14:21:20 info: Server running on port 5000
+2024-08-04 14:21:22 info: Connected to MongoDB
+2024-08-04 14:21:22 info: Server running on port 5000
+2024-08-04 14:21:25 info: Connected to MongoDB
+2024-08-04 14:21:25 info: Server running on port 5000
+2024-08-04 14:21:33 info: Connected to MongoDB
+2024-08-04 14:21:33 info: Server running on port 5000
+2024-08-04 14:21:35 info: Connected to MongoDB
+2024-08-04 14:21:35 info: Server running on port 5000
+2024-08-04 14:21:37 info: Connected to MongoDB
+2024-08-04 14:21:37 info: Server running on port 5000
+2024-08-04 14:21:47 info: Connected to MongoDB
+2024-08-04 14:21:47 info: Server running on port 5000
+2024-08-04 14:21:56 info: Connected to MongoDB
+2024-08-04 14:21:56 info: Server running on port 5000
+2024-08-04 14:24:32 info: Connected to MongoDB
+2024-08-04 14:24:32 info: Server running on port 5000
+2024-08-04 14:24:55 info: Data retrieved.
+2024-08-04 14:25:29 info: Connected to MongoDB
+2024-08-04 14:25:29 info: Server running on port 5000
+2024-08-04 14:25:33 info: Connected to MongoDB
+2024-08-04 14:25:33 info: Server running on port 5000
+2024-08-04 14:32:46 info: Connected to MongoDB
+2024-08-04 14:32:46 info: Server running on port 5000
+2024-08-04 14:35:34 info: Connected to MongoDB
+2024-08-04 14:35:34 info: Server running on port 5000
+2024-08-04 14:35:39 info: Data retrieved.
+2024-08-04 14:40:18 info: Creating Data.
+2024-08-04 14:40:18 info: Data saved.
+2024-08-04 14:40:52 info: Data updated.
+2024-08-04 14:41:31 info: Creating Data.
+2024-08-04 14:41:31 info: Data saved.
+2024-08-04 14:41:43 info: Student deleted.
+2024-08-04 14:41:48 error: Student not found.
+2024-08-04 14:41:54 info: Data retrieved.
