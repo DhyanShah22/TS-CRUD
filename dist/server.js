@@ -6,14 +6,17 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const express_1 = __importDefault(require("express"));
 const mongoose_1 = __importDefault(require("mongoose"));
 const config_1 = require("./config");
+const dotenv_1 = __importDefault(require("dotenv"));
+dotenv_1.default.config();
 const logger_1 = __importDefault(require("./logger/logger"));
 const studentRoutes_1 = require("./routes/studentRoutes");
 const app = (0, express_1.default)();
 app.use(express_1.default.json());
+const port = process.env.PORT || 3000;
 mongoose_1.default.connect(config_1.config.mongoUri)
     .then(() => {
     logger_1.default.info('Connected to MongoDB');
-    app.listen(config_1.config.port, () => {
+    app.listen(port, () => {
         logger_1.default.info(`Server running on port ${config_1.config.port}`);
     });
 })
